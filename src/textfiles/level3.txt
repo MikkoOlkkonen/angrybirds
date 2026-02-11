@@ -1,0 +1,42 @@
+Birds
+Red
+Red
+Red
+Red
+Red
+Yellow
+Yellow
+Yellow
+
+Pigs
+King 871 574
+Normal 874 476
+Normal 740 584
+Normal 1014 584
+
+Obstacles
+Stone 772 583
+Stone 827 583
+Wood 808 561
+Stone 968 583
+Stone 912 583
+Wood 929 562
+Wood 816 508
+Wood 871 497
+Wood 875 444
+Glass 831 535
+Glass 790 535
+Wood 927 508
+Glass 851 470
+Wood 737 556
+Glass 1038 578
+Wood 1009 556
+Glass 907 535
+Glass 951 535
+Glass 896 470
+Glass 709 578
+Stone 809 487
+Stone 928 487
+
+Star
+643 427

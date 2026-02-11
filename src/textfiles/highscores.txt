@@ -1,0 +1,23 @@
+1
+12869 mikko
+7968 emmi
+4037 Mikko
+3335 Linnea
+2505 Veera
+
+2
+12266 mikko
+10957 Linnea
+7997 Veera
+-1 
+-1 
+
+3
+8496 mikko
+-1 
+-1 
+-1 
+-1 
+
+4
+

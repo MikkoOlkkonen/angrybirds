@@ -1,0 +1,7 @@
+TODO's
+
+levelfilet
+
+levelin latauksesta nopeempi? tai ainaki retrystä.
+
+testit

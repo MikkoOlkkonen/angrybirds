@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/build/_deps/sfml-src/include",
+                "${workspaceFolder}/build/_deps/box2d-src/include",
+                "${workspaceFolder}/src",
+                "/usr/include",             // System includes
+                "/usr/local/include"        // Additional system includes
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/build/_deps/sfml-src/include",
+                    "${workspaceFolder}/build/_deps/box2d-src/include"
+                ]
+            },
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
